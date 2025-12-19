@@ -319,7 +319,7 @@ img, svg, video, iframe {
   height: auto;
 }
 
-pre, code {
+pre {
   overflow-x: auto;
 }
 
